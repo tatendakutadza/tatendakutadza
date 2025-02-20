@@ -9,13 +9,14 @@ My main interests are programming, networking and AI and machine learning. My pr
 
 ###
 
-<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning about Data Analytics<br>🎯 Goals:
-	<br>     - Build an AI Program
-	<br>     - Get better at Data Analysis
-	<br>     - Contribute more on GitHub
-	<br>     - Get a programming remote job in 2025
-	<br>🎲 Fun fact: I draw and play the guitar in my free time</p>
-
+<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning about Data Analytics
+<br>🎲 Fun fact: I draw and play the guitar in my free time</p>
+🎯 Goals:
+	 1. Build an AI Program
+	 2. Get better at Data Analysis
+	 3. Contribute more on GitHub
+	 4. Get a programming remote job in 2025
+	
 ###
 
 <h2 align="left">I code with</h2>
