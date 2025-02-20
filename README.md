@@ -11,9 +11,9 @@ I'm passionate about Programming, Communication Networks and AI and Machine lear
 
 ###
 
-#### ✨ Creating bugs since 
+#### ✨ I've been creating bugs since: 
 - 2015
-#### 📚 Currently learning about ....
+#### 📚 I'm currently learning about ....
 - Data Science and Data Analytics
 #### 🎲 Fun fact: 
 - I draw and play the guitar in my free time
@@ -49,6 +49,8 @@ I'm passionate about Programming, Communication Networks and AI and Machine lear
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/oracle/oracle-original.svg" height="40"/>
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/r/r-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqldeveloper/sqldeveloper-original.svg" height="40"/>
   <img width="12" />
 </div>
 
