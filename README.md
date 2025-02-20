@@ -13,10 +13,10 @@ My main interests are Programming, Networking and AI and Machine learning. My fa
 <br>📚 I'm currently learning about Data Analytics
 <br>🎲 Fun fact: I draw and play the guitar in my free time
 <br>🎯 Goals:
-<br> &nbsp;1. Build an AI Program
-<br> &nbsp;2. Get better at Data Analysis
-<br> &nbsp;3. Contribute more on GitHub
-<br> &nbsp;4. Get a programming remote job in 2025
+<br> &nbsp;&nbsp;&nbsp;&nbsp;1. Build an AI Program
+<br> &nbsp;&nbsp;&nbsp;&nbsp;2. Get better at Data Analysis
+<br> &nbsp;&nbsp;&nbsp;&nbsp;3. Contribute more on GitHub
+<br> &nbsp;&nbsp;&nbsp;&nbsp;4. Get a programming remote job in 2025
 	
 ###
 
