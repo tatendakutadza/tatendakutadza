@@ -39,6 +39,8 @@ My main interests are Programming, Networking and AI and Machine learning. My fa
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/oracle/oracle-original.svg" height="40"/>
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/r/r-original.svg" height="40"/>
+  <img width="12" />
 </div>
 
 ###
