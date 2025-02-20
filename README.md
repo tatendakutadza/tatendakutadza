@@ -15,6 +15,9 @@ I'm passionate about Programming, Communication Networks and AI and Machine lear
 - 2015
 #### 📚 I'm currently learning about ....
 - Data Science and Data Analytics
+#### Projects I'm interested in working on:
+- Music Recommendation
+- Twitter Sentiment Analysis
 #### 🎲 Fun fact: 
 - I draw and play the guitar in my free time
 #### <br>🎯 Goals:
