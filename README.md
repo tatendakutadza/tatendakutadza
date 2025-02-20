@@ -19,9 +19,9 @@ My interests include are Programming, Communication Networks and AI and Machine 
 - I draw and play the guitar in my free time
 #### <br>🎯 Goals:
 - Build an AI Program
-<br> - Get better at Data Analysis
-<br> - Contribute more on GitHub
-<br> - Get a remote programming job in 2025
+- Get better at Data Analysis
+- Contribute more on GitHub
+- Get a remote programming job in 2025
 #### 🎓 Certifications:
 - Oracle Cloud Infrastructure Foundations Associate
 - Oracle Cloud Infrastructure Architect Associate
