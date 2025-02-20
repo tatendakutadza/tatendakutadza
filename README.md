@@ -10,13 +10,13 @@ My main interests are Programming, Networking and AI and Machine learning. My fa
 ###
 
 ✨ Creating bugs since 2015
-📚 I'm currently learning about Data Analytics
-🎲 Fun fact: I draw and play the guitar in my free time
-🎯 Goals:
-	 1. Build an AI Program
-	 2. Get better at Data Analysis
-	 3. Contribute more on GitHub
-	 4. Get a programming remote job in 2025
+\n📚 I'm currently learning about Data Analytics
+\n🎲 Fun fact: I draw and play the guitar in my free time
+\n🎯 Goals:
+	 \n1. Build an AI Program
+	 \n2. Get better at Data Analysis
+	 \n3. Contribute more on GitHub
+	 \n4. Get a programming remote job in 2025
 	
 ###
 
