@@ -5,7 +5,7 @@
 Hey👋
 <br>I'm a programmer from Zimbabwe, with demonstrative expertise in developing user friendly programs with multiple programming languages, including Python, C, C#, Java, 
 HTML, CSS, and JavaScript. 
-My interests include are Programming, Communication Networks and AI and Machine learning.
+I'm passionate about Programming, Communication Networks and AI and Machine learning.
 
 <h2 align="left">About me</h2>
 
