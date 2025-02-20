@@ -2,15 +2,16 @@
 
 ###
 
-<p align="left">My name is Tatenda Julius Kutadza and I'm a IT professional, from Zimbabwe. 
-My main interests are programming, networking and AI and machine learning. My programming language of preference is Python but I'm also familiar with Java, C, C# and a couple of web development languages (HTML, CSS, JavaScript) </p>
+My name is Tatenda Kutadza, an IT professional from Zimbabwe. 
+My main interests are Programming, Networking and AI and Machine learning. My favorite programming language to work with is Python, but I'm also familiar with Java, C, C# and a couple of web development languages (HTML, CSS, JavaScript)
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning about Data Analytics
-<br>🎲 Fun fact: I draw and play the guitar in my free time</p>
+✨ Creating bugs since 2015
+📚 I'm currently learning about Data Analytics
+🎲 Fun fact: I draw and play the guitar in my free time
 🎯 Goals:
 	 1. Build an AI Program
 	 2. Get better at Data Analysis
