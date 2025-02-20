@@ -3,7 +3,7 @@
 ###
 
 Hey👋
-I'm a programmer from Zimbabwe, with demonstrative expertise in developing user friendly programs with multiple programming languages, including Python, C, C#, Java, 
+<br>I'm a programmer from Zimbabwe, with demonstrative expertise in developing user friendly programs with multiple programming languages, including Python, C, C#, Java, 
 HTML, CSS, and JavaScript. 
 My interests include are Programming, Communication Networks and AI and Machine learning.
 
@@ -13,18 +13,18 @@ My interests include are Programming, Communication Networks and AI and Machine 
 
 ✨ Creating bugs since 2015
 <br><br>📚 Currently learning about ....
-<br> - Data Science and Data Analytics
+<br><br> "*" Data Science and Data Analytics
 <br><br>🎲 Fun fact: 
-<br> - I draw and play the guitar in my free time
+<br><br> "*" I draw and play the guitar in my free time
 <br><br>🎯 Goals:
-<br> - Build an AI Program
-<br> - Get better at Data Analysis
-<br> - Contribute more on GitHub
-<br> - Get a remote programming job in 2025
+<br><br> "*" Build an AI Program
+<br> "*" Get better at Data Analysis
+<br> "*" Contribute more on GitHub
+<br> "*" Get a remote programming job in 2025
 <br><br>🎓 Certifications:
-<br> - Oracle Cloud Infrastructure Foundations Associate
-<br> - Oracle Cloud Infrastructure Architect Associate
-<br> - Oracle Cloud Infrastructure Developer Associate
+<br><br> "*" Oracle Cloud Infrastructure Foundations Associate
+<br> "*" Oracle Cloud Infrastructure Architect Associate
+<br> "*" Oracle Cloud Infrastructure Developer Associate
 
 ###
 
