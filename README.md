@@ -12,14 +12,16 @@ My interests include are Programming, Communication Networks and AI and Machine 
 ###
 
 ✨ Creating bugs since 2015
-<br>📚 I'm currently learning about Data Science and Data Analytics
-<br>🎲 Fun fact: I draw and play the guitar in my free time
-<br>🎯 Goals:
-<br> &emsp;&emsp;1. Build an AI Program
-<br> &emsp;&emsp;2. Get better at Data Analysis
-<br> &emsp;&emsp;3. Contribute more on GitHub
-<br> &emsp;&emsp;4. Get a programming remote job in 2025
-<br>🎓 Certifications:
+<br>📚 Currently learning about ....
+<br> - Data Science and Data Analytics
+<br><br>🎲 Fun fact: 
+<br> - I draw and play the guitar in my free time
+<br><br>🎯 Goals:
+<br> &emsp;&emsp;- Build an AI Program
+<br> &emsp;&emsp;- Get better at Data Analysis
+<br> &emsp;&emsp;- Contribute more on GitHub
+<br> &emsp;&emsp;- Get a remote programming job in 2025
+<br><br>🎓 Certifications:
 <br> Oracle Cloud Infrastructure Foundations Associate
 <br> Oracle Cloud Infrastructure Architect Associate
 <br> Oracle Cloud Infrastructure Developer Associate
