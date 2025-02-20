@@ -11,7 +11,8 @@ My interests include are Programming, Communication Networks and AI and Machine 
 
 ###
 
-#### ✨ Creating bugs since 2015
+#### ✨ Creating bugs since 
+- 2015
 #### 📚 Currently learning about ....
 - Data Science and Data Analytics
 #### 🎲 Fun fact: 
@@ -23,8 +24,8 @@ My interests include are Programming, Communication Networks and AI and Machine 
 <br> - Get a remote programming job in 2025
 #### 🎓 Certifications:
 - Oracle Cloud Infrastructure Foundations Associate
-<br> - Oracle Cloud Infrastructure Architect Associate
-<br> - Oracle Cloud Infrastructure Developer Associate
+- Oracle Cloud Infrastructure Architect Associate
+- Oracle Cloud Infrastructure Developer Associate
 
 ###
 
