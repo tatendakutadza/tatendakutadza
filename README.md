@@ -13,7 +13,7 @@ I'm passionate about Programming, Communication Networks and AI and Machine lear
 
 #### ✨ I've been creating bugs since: 
 - 2015
-#### 📚 I'm currently learning about ....
+#### 📚 I'm currently learning:
 - Data Science and Data Analytics
 #### Projects I'm interested in working on:
 - Music Recommendation
