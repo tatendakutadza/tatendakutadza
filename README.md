@@ -13,18 +13,12 @@ I'm passionate about Programming, Communication Networks and AI and Machine lear
 
 #### ✨ I've been creating bugs since: 
 - 2015
-
 #### 🔭 I’m currently working on ...
 - Investigating the Zimbabwean job market using Data Analysis methods
 #### 📚 I'm currently learning:
 - Data Science and Data Analytics
 - Machine Learning
 - Cybersecurity
-#### Projects I'm interested in working on:
-- Music Recommender
-- Twitter Sentiment Analysis
-#### 🎲 Fun fact: 
-- I draw and play the guitar in my free time
 #### <br>🎯 Goals:
 - Contribute more on GitHub
 - Get a remote programming job in 2025
@@ -32,7 +26,11 @@ I'm passionate about Programming, Communication Networks and AI and Machine lear
 - Oracle Cloud Infrastructure Foundations Associate
 - Oracle Cloud Infrastructure Architect Associate
 - Oracle Cloud Infrastructure Developer Associate
-
+#### Projects I'm interested in working on:
+- Music Recommender
+- Twitter Sentiment Analysis
+#### 🎲 Fun fact: 
+- I draw and play the guitar in my free time
 ###
 
 <h2 align="left">I code with</h2>
